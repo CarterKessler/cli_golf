@@ -1,0 +1,105 @@
+Last login: Wed Nov 16 08:01:38 on ttys000
+ GA General Assembly  Web Development Immersive 
+------------------------------------------
+git version 2.10.2
+Homebrew 1.1.0 Homebrew/homebrew-core (git revision 1d0a; last commit 2016-11-14)
+ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin15]
+node v7.1.0
+psql (PostgreSQL) 9.5.5
+------------------------------------------
+type unwelcome to remove this message
+robertkessler ~ on master[?]
+$ cd ~
+robertkessler ~ on master[?]
+$ ls
+2	       'I have fun'/  NEW/	 funny_things/		       week1
+Applications/  Library/       Pictures/  homework
+Desktop/       Memory-Game/   Public/	 nov/
+Documents/     Movies/	      TEST/	 temp/
+Downloads/     Music/	      code/	 wdi-fundamentals-memorygame/
+robertkessler ~ on master[?]
+$ cd Applications/
+robertkessler ~/Applications on master[?]
+$ ls
+robertkessler ~/Applications on master[?]
+$ ls
+robertkessler ~/Applications on master[?]
+$ cd ../
+robertkessler ~ on master[?]
+$ ls
+2	       'I have fun'/  NEW/	 funny_things/		       week1
+Applications/  Library/       Pictures/  homework
+Desktop/       Memory-Game/   Public/	 nov/
+Documents/     Movies/	      TEST/	 temp/
+Downloads/     Music/	      code/	 wdi-fundamentals-memorygame/
+robertkessler ~ on master[?]
+$ cd code/
+robertkessler ~/code on master
+$ ls
+temp/
+robertkessler ~/code on master
+$ cd temp/
+robertkessler ~/code/temp on master
+$ ls
+git_practice/  homework/  sandbox/  wdi-atx-9-class/
+robertkessler ~/code/temp on master
+$ cd homework/
+robertkessler ~/code/temp/homework on master
+$ ls
+cli_golf/
+robertkessler ~/code/temp/homework on master
+$ cd cli_golf/
+robertkessler ~/code/temp/homework/cli_golf on master
+$ ls
+LICENSE.txt  README.md	kitchen.zip
+robertkessler ~/code/temp/homework/cli_golf on master
+$ open README.md 
+robertkessler ~/code/temp/homework/cli_golf on master
+$ cd ../
+robertkessler ~/code/temp/homework on master
+$ cd ../../
+robertkessler ~/code on master
+$ ../
+-bash: ../: is a directory
+robertkessler ~/code on master
+$ cd ../
+robertkessler ~ on master[?]
+$ ls
+2	       'I have fun'/  NEW/	 funny_things/		       week1
+Applications/  Library/       Pictures/  homework
+Desktop/       Memory-Game/   Public/	 nov/
+Documents/     Movies/	      TEST/	 temp/
+Downloads/     Music/	      code/	 wdi-fundamentals-memorygame/
+robertkessler ~ on master[?]
+$ cd Downloads/
+robertkessler ~/Downloads on master[?]
+$ ls
+SOFTWARE/  YESTERDAY/  homework/  kitchen/  'kitchen copy'/
+robertkessler ~/Downloads on master[?]
+$ cd kitchen/
+robertkessler ~/Downloads/kitchen on master[?]
+$ ls
+fridge/  pantry/  sink/  trashcan/
+robertkessler ~/Downloads/kitchen on master[?]
+$ tree
+.
+├── fridge
+│   ├── crisper-drawer
+│   │   └── lettuce.txt
+│   ├── freezer
+│   │   ├── frozenpeas.txt
+│   │   └── icecream.txt
+│   └── milk.txt
+├── pantry
+│   ├── cans.txt
+│   └── cereal.txt
+├── sink
+│   └── cleandishes.txt
+└── trashcan
+    ├── chicken-bones.txt
+    ├── egg-shells.txt
+    └── sink
+
+6 directories, 10 files
+robertkessler ~/Downloads/kitchen on master[?]
+$ 
